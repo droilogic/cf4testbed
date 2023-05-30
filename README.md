@@ -1,4 +1,5 @@
 # cf4testbed
+
 # heading 1
 ## heading 2
 ### heading 3
@@ -6,5 +7,8 @@
 
 ** Coding Factory, class of 2023A **
 
-Hello, edited with vi!
+*Hello, edited with vi!*
+
+... and now editing with nano; piss off vi!
+
 
